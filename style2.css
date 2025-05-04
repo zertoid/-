@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(blue,orange,red )
+}
+
+
+p:hover{
+background-color: rgb(246, 167, 10);
+background: linear-gradient(red,rgb(222, 119, 119));
+}
+h1:hover{
+background: linear-gradient(rgb(233, 228, 228),rgb(41, 25, 25));
+} ;
+
+}
